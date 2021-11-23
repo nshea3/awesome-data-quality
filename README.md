@@ -1,5 +1,5 @@
 # awesome-data-quality
-Awesome data quality tools and resources 😎
+Awesome tools and resources for dealing with rogue data 😎
 
 ## Readings and Resources:
 
