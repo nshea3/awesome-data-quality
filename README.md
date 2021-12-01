@@ -11,4 +11,8 @@ Awesome tools and resources for dealing with rogue data 😎
 ## Tools: 
 
 - [dirty_cat: machine learning on dirty categories](https://dirty-cat.github.io/stable/index.html)
+
+### Fuzzy matching/identity resolution:
 - [dedupe.io](https://github.com/dedupeio/dedupe)
+- [Python Record Linkage Toolkit](https://recordlinkage.readthedocs.io/en/latest/index.html)
+- [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
